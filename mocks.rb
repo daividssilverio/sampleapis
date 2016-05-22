@@ -168,7 +168,7 @@ def challengeMock
                    title: 'Doing something active'},
                   {option_id: 3,
                    thumbnail_url: "https://robohash.org/#{rand}",
-                   title: 'Hanging {out with friends'},
+                   title: 'Hanging out with friends'},
                   {option_id: 4,
                    thumbnail_url: "https://robohash.org/#{rand}",
                    title: 'Watching movies'}
@@ -181,10 +181,10 @@ def challengeMock
               options: [
                   {option_id: 1,
                    thumbnail_url: "https://robohash.org/#{rand}",
-                   title: 'Easy - I have {lots of ideas'},
+                   title: 'Easy - I have lots of ideas'},
                   {option_id: 2,
                    thumbnail_url: "https://robohash.org/#{rand}",
-                   title: 'I {plan long ahead'},
+                   title: 'I plan long ahead'},
                   {option_id: 3,
                    thumbnail_url: "https://robohash.org/#{rand}",
                    title: 'I am never sure'},
